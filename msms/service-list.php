@@ -7,7 +7,7 @@ include('includes/dbconnection.php');
 <html lang="en">
 
 <head>
-
+    <h1>Abcd</h1>
     <title> Salon Management System || Service List</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
