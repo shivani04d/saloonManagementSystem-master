@@ -311,6 +311,8 @@ animation: fadeInUp 1.2s ease-in-out;color: hsl(329, 100%, 64%);}
 /*--------------------------------
 4.8 Image Hover Effect 
 ----------------------------------*/
+.img-responsive img{transition: transform 0.3s ease-in-out;}
+.img-responsive img{transform: scale(1.1);box-shadow: 0 4px 10px rgba(0, 0, 0, 03); }
 .imghover { display: block; position: relative; max-width: 100%; }
 .imghover::before, .imghover::after { display: block; position: absolute; content: ""; text-align: center; opacity: 0; }
 .imghover::before { top: 0; right: 0; bottom: 0; left: 0; }
@@ -389,7 +391,7 @@ font-weight: bold;position: relative;transition: color 0.3s ease-in-out;}
 #navigation.align-center > ul > li { display: inline-block; float: none; }
 #navigation.align-center ul ul { text-align: left; }
 #navigation.align-right > ul > li { float: right; }
-#navigation > ul > li > a { padding: 20px; font-size: 13px; color: #880e4f; text-decoration: none; font-weight: 500; text-transform: uppercase; }
+#navigation > ul > li > a { padding: 20px; font-size: 13px; color: #880e4f; text-decoration: none; font-weight: 600; text-transform: uppercase; }
 #navigation > ul > li:hover > a { color: #ffffff; background-color: #d63384; }
 #navigation > ul > li.has-sub > a { padding-right: 32px; }
 
@@ -526,7 +528,7 @@ margin-bottom: 8px; padding: 0 0 8px 40px; color: #747474; }
 
 .widget-newsletter input {padding: 10px;width: 70%;border: none;
 border-radius: 20px;outline: none;}
-.widget-newsletter .form-control { height: 40px; color: #eee; background-color: #f4679b; border: none; box-shadow: none; font-size: 14px; border-radius: 30px 0px 0px 30px;}
+.widget-newsletter .form-control { height: 40px; color: #eee; background-color: #c41b59; border: none; box-shadow: none; font-size: 14px; border-radius: 30px 0px 0px 30px;}
 .widget-newsletter .btn {background-color: white;color: #ff69b4;padding: 10px 20px;border-radius: 20px;font-weight: bold;transition: 0.3s ease-in-out;}
 .widget-newsletter .btn:hover {background-color: #ff69b4;color: white;transform: scale(1.1);}
 

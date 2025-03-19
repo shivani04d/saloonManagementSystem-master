@@ -60,16 +60,14 @@ if(isset($_POST['login']))
 				<h3 class="title1">SignIn Page</h3>
 				<div class="widget-shadow">
 					<div class="login-top">
-						<h4>Welcome back to SMS AdminPanel ! </h4>
+						<h4>Welcome back to SMS Admin Panel ! </h4>
 					</div>
 					<div class="login-body">
 						<form role="form" method="post" action="">
-							
 							<input type="text" class="user" name="username" placeholder="Username" required="true">
 							<input type="password" name="password" class="lock" placeholder="Password" required="true">
 							<input type="submit" name="login" value="Sign In">
 							<div class="forgot-grid">
-								
 								<div class="forgot">
 									<a href="../index.php">Back to Home</a>
 								</div>
@@ -85,8 +83,6 @@ if(isset($_POST['login']))
 						</form>
 					</div>
 				</div>
-				
-				
 			</div>
 		</div>
 		

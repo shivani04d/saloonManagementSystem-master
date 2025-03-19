@@ -51,8 +51,8 @@ include('includes/dbconnection.php');
             <div class="row">
                 <div class="col-md-10 mx-auto heading-section text-center ftco-animate">
                     <div class="service-style">
-                        <h2 class="mb-4"f>Our Service Prices</h2>
-                        <p>Discover premium beauty services at affordable prices</p>
+                        <h2 class="mb-4"text-center>Our Service Prices</h2>
+                        <p >Discover premium beauty services at affordable prices</p>
                     </div>
                 </div>
                 <div class="col-md-12">

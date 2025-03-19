@@ -22,11 +22,11 @@ User
 
 In MSMS users are not required to sign in
 
-Home Page: The user can take an appointment with Men’s Salon on a particular date and time.
+Home Page: The user can take an appointment with Women's Beauty on a particular date and time.
 
-Services: User views the services which are offered by Men’s Salon.
+Services: User views the services which are offered by Women's Beauty.
 
-About Us: User sees the details of Men Salon.
+About Us: User sees the details of Women's Beauty.
 
 Contact Us: The user can contact Men Salon.
 
